@@ -96,7 +96,7 @@ export default async function ShowcaseDetailPage({ params }: PageProps) {
 
             {/* Project Description */}
             <p className="mt-6 text-base lg:text-lg text-[var(--opacity-text-color)] leading-relaxed text-pretty">
-              {project.longDescription}
+              {project.longDescription || project.description}
             </p>
           </div>
 
