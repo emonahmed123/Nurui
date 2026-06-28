@@ -7525,6 +7525,7 @@ __metadata:
     sonner: "npm:^2.0.7"
     styled-components: "npm:^6.1.19"
     svg-path-commander: "npm:^2.1.10"
+    swiper: "npm:^14.0.0"
     tailwind-merge: "npm:^3.3.1"
     tailwindcss: "npm:^3.4.1"
     three: "npm:^0.176.0"
@@ -9158,6 +9159,13 @@ __metadata:
   dependencies:
     "@thednp/dommatrix": "npm:^3.0.4"
   checksum: 10c0/5e662d8bdbc9f58ca119a47ae83f752bf1db1adc2b14b0a6ff0e2ee2c6f0fac6115379f4ec7eab75f5d45d16ad7551e2b44ab90269eb0b05abeb179c1064f7c5
+  languageName: node
+  linkType: hard
+
+"swiper@npm:^14.0.0":
+  version: 14.0.0
+  resolution: "swiper@npm:14.0.0"
+  checksum: 10c0/2fad2e2e8a7cc6958306269d55495d616a88e8d7c5cc182ef6f452efb7959f92b308312f712363179c542ae82b7e9e862da39fdbc4d0e412f5cc8a6d44ca5df8
   languageName: node
   linkType: hard
 
